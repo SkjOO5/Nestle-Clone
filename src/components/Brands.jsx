@@ -18,12 +18,12 @@ const brands = [
     },
     {
         name: 'Munch',
-        img: 'https://images.pexels.com/photos/291528/pexels-photo-291528.jpeg?auto=compress&cs=tinysrgb&w=600',
+        img: 'https://images.pexels.com/photos/806361/pexels-photo-806361.jpeg?auto=compress&cs=tinysrgb&w=600', // Wafer texture
         desc: 'CRUNCH GEAR'
     },
     {
         name: 'Milkybar',
-        img: 'https://images.pexels.com/photos/4110101/pexels-photo-4110101.jpeg?auto=compress&cs=tinysrgb&w=600', // White chocolate pieces
+        img: 'https://images.pexels.com/photos/4110101/pexels-photo-4110101.jpeg?auto=compress&cs=tinysrgb&w=600',
         desc: 'CREAMY TURBO'
     },
     {
